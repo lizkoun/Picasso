@@ -228,12 +228,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/harlequin1917-195x259.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/harlequin1917-195x259-195x259.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ballplayers-on-the-beach-1928-1088x748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ballplayers-on-the-beach-1928-1088x748-800x550.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Harlequin <br>(1917)",
+                "caption": "Ballplayers on the beach (1928)<br>",
                 "active": true
               },
               {
