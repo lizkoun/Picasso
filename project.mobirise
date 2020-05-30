@@ -233,7 +233,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Ballplayers on the beach (1928)<br>",
+                "caption": "Ballplayers on the beach <br>(1928)<br>",
                 "active": true
               },
               {
@@ -246,7 +246,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The girls of avignon (1907)",
+                "caption": "The girls of avignon <br>(1907)",
                 "active": false
               },
               {
@@ -259,7 +259,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Baboon and Young (1951)",
+                "caption": "Baboon and Young <br>(1951)",
                 "active": false
               },
               {
@@ -272,7 +272,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Girl on the ball (1905)<br><br>",
+                "caption": "Girl on the ball <br>(1905)<br><br>",
                 "active": false
               },
               {
@@ -311,7 +311,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Girl Begore a Mirror (1932)",
+                "caption": "Girl Begore a Mirror <br>(1932)",
                 "active": false
               },
               {
@@ -324,7 +324,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Minotaur with dead horse (1936)",
+                "caption": "Minotaur with dead horse <br>(1936)",
                 "active": false
               },
               {
@@ -332,12 +332,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gutted-horse-1917-1088x864.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gutted-horse-1917-1088x864-800x635.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moulin-de-la-galette-1900-1800x1386.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/moulin-de-la-galette-1900-1800x1386-800x616.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Gutted horse (1917)<br>",
+                "caption": "Moulin de la galette <br>(1900)",
                 "active": false
               }
             ]
