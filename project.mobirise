@@ -293,12 +293,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/the-tragedy-1903-181x278.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/the-tragedy-1903-181x278-181x278.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bullfight-the-death-of-the-torero-1088x843.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bullfight-the-death-of-the-torero-1088x843-800x620.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Tragedy (1903)<br><br>",
+                "caption": "Bullfight the death of the torero (1933)<br><br>",
                 "active": false
               },
               {
@@ -319,12 +319,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bulls-head1942-200x252.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bulls-head1942-200x252-200x252.jpg",
+                "image": "@PROJECT_PATH@/assets/images/minotaur-with-dead-horse-in-front-of-a-cave-facing-a-girl-in-veil-1936-1088x827.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/minotaur-with-dead-horse-in-front-of-a-cave-facing-a-girl-in-veil-1936-1088x827-800x608.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Bull's Head <br>(1942)",
+                "caption": "Minotaur with dead horse (1936)",
+                "active": false
+              },
+              {
+                "tags": "Φανταστικό",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gutted-horse-1917-1088x864.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gutted-horse-1917-1088x864-800x635.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Gutted horse (1917)<br>",
                 "active": false
               }
             ]
